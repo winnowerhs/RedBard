@@ -1,2 +1,2 @@
-# diva
-a MacroQuest lua for superior automation for the modern bard
+# RedBard
+a MacroQuest lua for bard automation, singing with heart, boosting the DPS of the entire group with love
